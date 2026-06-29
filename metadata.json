@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest Retro Graphic Generator",
+  "description": "Synthesize retro-futurism graphics, logos, and UI layouts by translating the aesthetic style of Pinterest board URLs using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
